@@ -6,7 +6,7 @@ from datetime import datetime, date, timedelta
 from collections import deque
 from streamlit_autorefresh import st_autorefresh
 
-# ---------------------------
+# -------------------------------
 # ⚙️ Configurações da Página
 # ---------------------------
 st.set_page_config(page_title="Monitor de Processos - Unimed", layout="wide")
